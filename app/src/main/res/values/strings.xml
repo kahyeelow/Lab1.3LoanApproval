@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab1.3 Loan Approval</string>
+    <string name="Salary">Salary (Monthly)</string>
+    <string name="VP">Vehicle Price (VP)</string>
+    <string name="DP">Downpayment (DP)</string>
+    <string name="IR">Interest Rate (IR)</string>
+    <string name="RepaymentMonth">Repayment Month</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+
+</resources>
